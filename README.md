@@ -23,6 +23,8 @@ Use the large yellow buttons to navigate between the dashboard, Breathe feature,
 
 ### Server
 
+Ensure you have MongoDB installed on your machine
+
 Install server dependencies: <br/>
 `cd server`<br/>
 `npm i` <br/>
