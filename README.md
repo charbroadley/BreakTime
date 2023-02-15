@@ -1,6 +1,6 @@
 # BreakTime
 
-![Punk Pints app showing a selected beer, the had list & the want list](src/images/punk-pints.png)
+![The BreakTime dashboard](client/src/images/dashboard.png)
 
 ## The Brief
 
