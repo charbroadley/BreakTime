@@ -1,6 +1,6 @@
 # BreakTime
 
-![The BreakTime dashboard](client/src/images/dashboard.png)
+<img width="400" alt="The BreakTime dashboard" src="client/src/images/dashboard.png"></img>
 
 ## The Brief
 
