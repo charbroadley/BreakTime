@@ -30,7 +30,7 @@ Install server dependencies: <br/>
 `npm i` <br/>
 
 Seed the database: <br/>
-`npm ru seeds`<br/>
+`npm run seeds`<br/>
 
 Run express:<br/>
 `npm run server:dev`<br/>
@@ -39,7 +39,7 @@ Run express:<br/>
 
 Install client dependencies: <br/>
 `cd ../client`<br/>
-`npm install`<br/>
+`npm i`<br/>
 
 Run the client:<br/>
 `npm start`<br/>
@@ -49,6 +49,7 @@ Run the client:<br/>
 - Express.JS
 - React
 - Highcharts JS Library
+- Styled Components
 - MongoDB
 
 ## Contributors
